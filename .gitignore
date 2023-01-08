@@ -1,0 +1,11 @@
+*.pyc
+.idea/
+token
+
+# Coverage
+test_coverage/
+.coverage
+
+# Database
+#quotes.db
+jackbot/__pycache__/
